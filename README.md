@@ -18,7 +18,7 @@
 根据以上教程自行安装CUDA加速库和cuDNN深度学习库。
 
 ### 2. 配置Python环境
-Python版本应在3.8及以上，目前在3.10.6上测试成功。推荐使用Anaconda进行环境管理。
+Python版本应在3.8及以上，目前在3.9.19上测试成功。推荐使用Anaconda进行环境管理。
 运行以下命令安装依赖：
 ```shell
 pip install -r requirements.txt
